@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora de Propinas</string>
+    <string name="hint_amount">Ingrese el valor de la cuenta</string>
+    <string name="txt_percent">%</string>
+    <string name="txt_tip">Propina</string>
+    <string name="txt_Total">Total</string>
+    <string name="txt_delete">Borrar</string>
+</resources>
